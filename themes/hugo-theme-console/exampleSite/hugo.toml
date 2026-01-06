@@ -1,5 +1,5 @@
 baseurl = "https://example.com/"
-title = "FreeMindLog"
+title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 

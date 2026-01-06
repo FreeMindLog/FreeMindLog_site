@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FreeMindLog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on FreeMindLog</description>
+    <title>Photos on FreeMindLog</title>
+    <link>http://localhost:1313/photos/</link>
+    <description>Recent content in Photos on FreeMindLog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warsaw, Poland</title>
       <link>http://localhost:1313/photos/warsaw-poland/</link>
@@ -49,20 +49,6 @@
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photos/panaji-india-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Panaji&amp;amp;oldid=949879387&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panaji&lt;/a&gt; , formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is Hugo</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
