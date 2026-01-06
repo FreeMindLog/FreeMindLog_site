@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://freemindlog.netlify.app/"
 title = "FreeMindLog"
 theme = "hugo-theme-console"
 languageCode = "en-us"
